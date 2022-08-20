@@ -1,0 +1,15 @@
+{
+  "name": "await-blockers",
+  "version": "0.0.1",
+  "description": "A simple promise of semaphore, timeout..",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "chuyong",
+  "license": "MIT",
+  "keywords": ["mutex", "semaphore", "timeout", "promise", "await", "async", "await-blockers"],
+  "dependencies": {
+    "typescript": "^4.7.4"
+  }
+}
